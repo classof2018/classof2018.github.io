@@ -51,6 +51,10 @@ p {
     line-height: 1.5;
 }
 
+.date {
+	color: #FFFFFF; 
+}
+
 .bg-primary {
     background-color: #f05f40;
 }
@@ -336,6 +340,14 @@ header .header-content .header-content-inner p {
     color: #f05f40;
 }
 
+
+.formLinks {
+    text-align: center;
+    font-size: 1em;
+}
+.formButton{
+list-style-type: none;
+}
 .no-gutter > [class*=col-] {
     padding-right: 0;
     padding-left: 0;
